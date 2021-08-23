@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krp12345
 - 👀 I’m interested in writing clean code by following standards and writing necessary test cases.
 - 🌱 I’m currently learning how to write clean code and being expert in writing all kind of test cases.
-- 💞️ I’m looking to collaborate on Angular OpenJDK.
+- 💞️ I’m looking to collaborate on Angular.
 - 📫 
 
 <!---
